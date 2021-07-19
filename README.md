@@ -1,1 +1,1 @@
-# ubiquitous-sniffle
+# Number guessing game
